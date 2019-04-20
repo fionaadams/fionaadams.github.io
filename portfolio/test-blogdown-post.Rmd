@@ -1,0 +1,9 @@
+---
+title: "Test Post"
+author: "Fiona Adams"
+date: "4/20/2019"
+output: html_document
+---
+
+#coolors.co for color schemes
+#inkscape and R
